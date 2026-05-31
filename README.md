@@ -80,7 +80,7 @@ Nee mattum enakku romba romba pidikkum ❤️🥺.
 
 Love you di ❤️.
 
-Indha surprise unakku pudikkum nu nenaikiren. Pudichirundha oru message anuppu, illa oru call pannu 😁. Un reaction paaka naan wait pannitu iruppen.
+Ithu unakku pudikkum nu nenaikiren. Pudichirundha oru message anuppu, illa oru call pannu 😁. Un reaction paaka naan wait pannitu iruppen.
 
 Kadaisiya oru vishayam...
 
