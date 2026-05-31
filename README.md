@@ -11,7 +11,7 @@ background:linear-gradient(135deg,#ff9a9e,#fad0c4);
 font-family:Arial;
 text-align:center;
 padding:20px;
-color:white;
+color:black;
 }
 
 .container{
@@ -43,8 +43,7 @@ margin-top:20px;
 <h2>📸 Our Memories 📸</h2>
 
 <img
-src="file_0000000033d871f8ae1db905c636d2f0.png" width="3
-  400">
+src="file_0000000033d871f8ae1db905c636d2f0.png" width="400">
 
 <div class="box">
 
