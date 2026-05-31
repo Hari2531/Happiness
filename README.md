@@ -42,8 +42,8 @@ margin-top:20px;
 
 <h2>📸 Our Memories 📸</h2>
 
-<img src="photo1.jpg">
-<img src="photo2.jpg">
+<img
+src="file_0000000033d871f8ae1db905c636d2f0.png" width="30">
 
 <div class="box">
 
