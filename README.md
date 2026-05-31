@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>For Ivanjilin ❤️</title>
+<title>For chlw ❤️</title>
 
 <style>
 body{
@@ -38,7 +38,7 @@ margin-top:20px;
 
 <div class="container">
 
-<h1>❤️ bhariyaa🤌🏻 ❤️</h1>
+<h1>🫀chellameyy🤌🏻🥹</h1>
 
 <h2>📸 Our Memories 📸</h2>
 
